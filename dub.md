@@ -2,6 +2,8 @@
 
 ```
 Nutrimeters es una herramienta digital que evalúa la ingesta nutricional de un individuo o una familia y ayuda a analizar las tendencias nutricionales en los alrededores para mejorar la calidad de alimentación.
+
+[...] #1 era una herramienta digital de evaluación nutricional para comunidades remotas, un sistema de ranking nutricional y recomendaciones automatizadas para mejorar la calidad de macros y micros
 ```
 
 ## En terminos sencillos, como funciona la solucion propuesta? Que es? Que procesos realiza y que tecnologias ocupa?
